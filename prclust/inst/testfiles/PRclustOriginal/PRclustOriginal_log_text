@@ -1,0 +1,13 @@
+INFO: Starting fuzzing
+WARNING: No test specified, defaulting to first test defined (_)
+input starts
+EXTERNAL: qs v0.23.5.
+
+data values: 1.05415e-68 1.86447e-211 4.49059e+17 2.72551e-214 6.53679e-70 2.42643e+241 1.65687e+24
+
+lambda1 values: -2.10159e+110
+lambda2 values: -6.65583e-306
+tau values: -3.48837e-09
+mumethod values: 37686913
+methods values: -822602508
+input ends

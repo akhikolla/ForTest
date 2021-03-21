@@ -1,0 +1,3 @@
+testlist <- list(x = 4.94065645841247e-322)
+result <- do.call(philentropy:::custom_log2,testlist)
+str(result)

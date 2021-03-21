@@ -1,0 +1,8 @@
+6f0dfd44211bb570d73df784c55c6df0 *DESCRIPTION
+a6440ee4951c087bdbaf3d7463e41768 *NAMESPACE
+b7e264cda87bcb0b2182558cadf889d1 *R/RcppExports.R
+160bcc1ca7e38e668568301b320b277a *man/dpoisbinom.Rd
+c3afe8348b06218cc76132a60d05d718 *src/Makevars
+d5aa6f08f80cd4a822c5c1f7aa8825d8 *src/RcppExports.cpp
+2e7b06dc36ea66d086b9718531910f53 *src/init.c
+28dbb1d9237309a43a75857154c10ed7 *src/poisbinom.cpp

@@ -1,0 +1,3 @@
+testlist <- list(x = c(1162167621L, 1162167621L, 1162167621L, 1162167621L,  1162167621L, 1162167621L, 1162167621L, 1162167621L, 1162167621L,  1162167621L, NA))
+result <- do.call(primes::prev_prime,testlist)
+str(result)

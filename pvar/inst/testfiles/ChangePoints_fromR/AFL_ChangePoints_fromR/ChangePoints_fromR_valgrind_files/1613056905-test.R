@@ -1,0 +1,3 @@
+testlist <- list(x = c(2.04891770681202e-314, 6.32404026676796e-322, 0, 0,  0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0, 0))
+result <- do.call(pvar:::ChangePoints_fromR,testlist)
+str(result)

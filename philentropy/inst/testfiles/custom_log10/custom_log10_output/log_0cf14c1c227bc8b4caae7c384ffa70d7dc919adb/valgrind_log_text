@@ -1,0 +1,9 @@
+WARNING: No test specified, defaulting to first test defined (_)
+TRACE: Initialized test input buffer with data from `/home/akhila/fuzzer_packages/fuzzedpackages/philentropy/inst/testfiles/custom_log10/custom_log10_output/0cf14c1c227bc8b4caae7c384ffa70d7dc919adb.pass`
+TRACE: Running: _ from /home/akhila/fuzzer_packages/fuzzedpackages/philentropy/inst/testfiles/custom_log10/custom_log10_DeepState_TestHarness.cpp(13)
+input starts
+EXTERNAL: qs v0.23.5.
+
+x values: 3.16522e+06
+input ends
+TRACE: Passed: _

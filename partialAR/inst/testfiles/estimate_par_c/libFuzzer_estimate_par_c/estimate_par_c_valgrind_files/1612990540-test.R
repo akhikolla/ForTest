@@ -1,0 +1,3 @@
+testlist <- list(X = c(5.05490796179366e+123, 5.3423318284814e-320, 0, 0),      max = NULL, rho_max = 0)
+result <- do.call(partialAR:::estimate_par_c,testlist)
+str(result)

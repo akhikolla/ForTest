@@ -1,0 +1,15 @@
+importFrom(MASS, ginv)
+
+importFrom(stats, optim, optimize)
+
+importFrom(stats, constrOptim)
+
+importFrom(mvtnorm, rmvnorm)
+
+importFrom("methods", "is")
+
+importFrom(Rcpp, evalCpp)
+
+useDynLib(porridge, .registration=TRUE)
+
+exportPattern("^[[:alpha:]]+")

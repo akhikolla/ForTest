@@ -1,0 +1,3 @@
+testlist <- list(x = structure(c(4.65661649758392e-10, 1.87974413397678e-304,  2.32903286132618e+96, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0), .Dim = c(5L,  7L)))
+result <- do.call(pedometrics::rowMinCpp,testlist)
+str(result)

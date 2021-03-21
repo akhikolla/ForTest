@@ -1,0 +1,24 @@
+##  Test values cross-refereneced vis-á-vis the Talisman JavaScript
+##  implementation.
+word,value
+Euler,E330
+Ellery,E330
+Gauss,G500
+Ghosh,G500
+Hilbert,H343
+Hilbert,H343
+Knuth,K210
+Kant,K210
+Lloyd,L310
+Ladd,L100
+Lukasiewicz,L555
+Lissajous,L555
+J,J000
+A,A000
+"",""
+Euler3.1415,NA
+12345,NA
+Müller-Lü denscheidt,NA
+Wikipedia,W541
+garçon,NA
+Breschnew,B355

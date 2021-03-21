@@ -1,0 +1,3 @@
+testlist <- list(activities = integer(0), cases = c("yoaelnebkpdookhvqteq",  "jueq", "vnegcvxsbouklvitwk", NA, "ohgfpuyckjsbpecwhofy", "tpdiknyn",  "", "oovqjhshungzryxtvkq", "aaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaa",  "aaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaa",  "aaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaa",  "aaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaa",  "aaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaa"), lead = 0L)
+result <- do.call(processmapR:::count_precedence,testlist)
+str(result)

@@ -1,0 +1,3 @@
+testlist <- list(x = structure(c(NaN, 0, 0, 0, 0, 0, 0, 0, 0, 0), .Dim = c(2L,  5L)))
+result <- do.call(partition:::icc_c,testlist)
+str(result)

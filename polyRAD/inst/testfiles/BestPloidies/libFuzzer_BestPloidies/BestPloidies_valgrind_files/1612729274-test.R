@@ -1,0 +1,3 @@
+testlist <- list(chisq = structure(c(3.22526053605166e-319, 7.06772668729061e-304,  7.47461043144322e+247, 5.90602436456745e+223, 1.42602581597035e-105,  1.42602581597035e-105, 1.42602581597035e-105), .Dim = c(7L, 1L )))
+result <- do.call(polyRAD:::BestPloidies,testlist)
+str(result)

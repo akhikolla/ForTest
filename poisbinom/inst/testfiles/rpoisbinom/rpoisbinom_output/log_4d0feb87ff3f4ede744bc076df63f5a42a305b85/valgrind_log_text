@@ -1,0 +1,12 @@
+WARNING: No test specified, defaulting to first test defined (_)
+TRACE: Initialized test input buffer with data from `/home/akhila/fuzzer_packages/fuzzedpackages/poisbinom/inst/testfiles/rpoisbinom/rpoisbinom_output/4d0feb87ff3f4ede744bc076df63f5a42a305b85.pass`
+TRACE: Running: _ from /home/akhila/fuzzer_packages/fuzzedpackages/poisbinom/inst/testfiles/rpoisbinom/rpoisbinom_DeepState_TestHarness.cpp(13)
+input starts
+EXTERNAL: qs v0.23.5.
+
+n values: -1105761949
+Missing value
+pp values: 1.79371e+195 -inf -3.98953e+09 -3.57884e+73 -6.38154e+212 nan nan 1.93761e+269 -0.0415881 -inf -1.66877e-96 6.45644e-174 5.50641e+255 -inf
+input ends
+Exception Handled
+TRACE: Passed: _
