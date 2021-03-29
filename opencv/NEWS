@@ -1,0 +1,12 @@
+0.2
+  - Windows / MacOS: upgrade binary packages to OpenCV 4.4.0
+  - Add ocv_rectangle
+  - Add ocv_polygon
+  - Add ocv_bbox
+  - Add ocv_chull
+  - Add ocv_keypoints for keypoint detection using FAST, Harris
+  - Add ocv_grayscale
+  - Add ocv_version
+
+0.1
+  - Initial CRAN release

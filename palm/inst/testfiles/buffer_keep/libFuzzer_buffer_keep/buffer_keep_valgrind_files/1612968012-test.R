@@ -1,3 +1,0 @@
-testlist <- list(R = 0, lims = structure(0, .Dim = c(1L, 1L)), points = structure(c(1.08646183675791e-311,  0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0), .Dim = c(3L,  6L)))
-result <- do.call(palm:::buffer_keep,testlist)
-str(result)

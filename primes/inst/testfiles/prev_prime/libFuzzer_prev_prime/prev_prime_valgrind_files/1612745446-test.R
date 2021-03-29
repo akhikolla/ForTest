@@ -1,3 +1,0 @@
-testlist <- list(x = c(1818568746L, 1751215716L, 1818569000L, 1397053520L,  543387502L, 1936993363L, 1163415584L, 1668247233L, 1949072000L,  1509949440L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L))
-result <- do.call(primes::prev_prime,testlist)
-str(result)

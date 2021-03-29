@@ -1,3 +1,0 @@
-testlist <- list(X = structure(0, .Dim = c(1L, 1L)), array = NULL, tree_array = structure(c(1.72723397295084e-77,  8.66012985962301e-154, 8.31143387819921e-310, 8.37231858109124e+298,  1.88478057376239e-307, 5.03115083804981e+175, 1.97037687715108e-314,  0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0), .Dim = c(5L, 7L)))
-result <- do.call(policytree:::tree_search_rcpp_predict,testlist)
-str(result)

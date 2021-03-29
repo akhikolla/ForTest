@@ -1,3 +1,0 @@
-testlist <- list(maxCodeLen = 0L, word = c("yoawlbljbgyoaaqohlbj", "qoxvgtvrejqbfljmqkfs",  "bphsjrtspohml", "fcopwi", NA, "bxehaaynhdmnsxkbalvi", NA, NA,  "zzhbuwznfxdivizbpagg", "lzdrj", "bbuwxwiftmwkj", "", "aaaaaaaaaaaaaaaaaaaa",  "aaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaa",  "aaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaa",  "aaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaa"))
-result <- do.call(phonics:::metaphone_internal,testlist)
-str(result)

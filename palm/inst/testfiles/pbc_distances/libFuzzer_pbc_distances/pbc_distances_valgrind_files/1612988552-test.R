@@ -1,3 +1,0 @@
-testlist <- list(lims = structure(0, .Dim = c(1L, 1L)), points = structure(c(1.38521763239434e-309,  0, 2.87284835528339e-188, 0, 0), .Dim = c(1L, 5L)))
-result <- do.call(palm:::pbc_distances,testlist)
-str(result)

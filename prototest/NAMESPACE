@@ -1,8 +1,0 @@
-useDynLib(prototest)
-export(prototest.univariate, prototest.multivariate)
-S3method(print, prototest)
-importFrom(Rcpp, evalCpp)
-importFrom("stats", "pchisq", "pf", "pnorm", "uniroot")
-import(intervals)
-import(MASS)
-import(glmnet)

@@ -1,3 +1,0 @@
-testlist <- list(V = structure(0, .Dim = c(1L, 1L)), groups = numeric(0),      mu = numeric(0), sigma = 0, mat = NULL, y_mat = structure(c(5.5329055018733e-222,      2.35731638585416e-154, 1.98151538784642e-232, 4.94250332521013e+136,      0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,      0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0), .Dim = c(5L, 7L)))
-result <- do.call(prototest:::rcpp_maximise_approx_likelihood,testlist)
-str(result)

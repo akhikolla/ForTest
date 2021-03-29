@@ -1,3 +1,0 @@
-testlist <- list(maxCodeLen = 0L, word = c("yoagldrrfgwrhmcaovtr", NA, "xwrnsxyvlyemzdpaezp",  "hgsbwtnzqwrihmt", NA, "iskiuqtnv", NA, "xzmygstcbrsenqzdli",  NA, NA, "nnf", "mldbrdtyeiizaaaaaaaa", "aaaaaaaaaaaaaaaaaaaa",  "aaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaa",  "aaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaa",  "aaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaa"))
-result <- do.call(phonics:::refinedSoundex_internal,testlist)
-str(result)

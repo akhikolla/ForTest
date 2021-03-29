@@ -1,3 +1,0 @@
-testlist <- list(x = c(0L, 0L, 0L, 0L, -1795162112L, 0L, 0L, 255L, -1L, -256L,  83L, 1949459316L, 2037409097L, 1665466368L, 0L, 0L, 0L, 0L, 0L,  0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L,  0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L,  0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L,  0L, 0L, 0L))
-result <- do.call(primes::prev_prime,testlist)
-str(result)

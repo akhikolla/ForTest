@@ -1,3 +1,0 @@
-testlist <- list(group = c(741092396L, 741092396L, 741092607L, 921102L, 235802126L,  235802126L, 235802126L, -334623218L, 235277838L, 235802126L,  235802156L, 741113878L, 741081088L, 0L, 0L, 0L, 0L, 0L, 0L, 0L,  0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L,  0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L), n = 0L)
-result <- do.call(plyr::split_indices,testlist)
-str(result)
